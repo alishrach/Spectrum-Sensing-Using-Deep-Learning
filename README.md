@@ -18,7 +18,9 @@ Hyperparameter optimization and regularization for improved classification accur
 Highlights
 
 **Model Architecture:** Combines CNNs for spatial feature extraction and ResNets for deeper network training.
+
 **Performance:** Achieved superior classification accuracy, particularly at low SNR levels, through feature engineering.
+
 **Applications:** Results demonstrate scalability for cognitive radio networks and advanced communication systems.
 
 **Key Outcomes**
