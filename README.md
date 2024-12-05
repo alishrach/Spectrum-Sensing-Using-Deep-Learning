@@ -26,6 +26,9 @@ Highlights
 **Key Outcomes**
 
 Achieved an overall classification accuracy of 85.1% at SNR levels of 22 dB with feature extraction.
+
 Enhanced performance in high-noise conditions, reaching accuracy of 27.3% at -4 dB, showcasing robustness.
+
 Demonstrated significant gains in accuracy across modulation schemes such as QPSK (61.5%), 16QAM (56.2%), and BPSK (67.3%).
+
 Validated the importance of feature extraction in boosting classification accuracy, particularly at low SNR levels.
